@@ -1,6 +1,6 @@
 # 行李檢查表
 
-[本文網址](https://github.com/rwlin/TravelPlan/blob/master/0-Plan/CheckList.md)
+[本文網址](https://github.com/rwlin/TravelPlan/blob/master/Taiwan/CheckList.md)
 
 ### 旅遊手冊
 
