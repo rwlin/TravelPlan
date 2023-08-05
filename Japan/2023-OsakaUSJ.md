@@ -6,9 +6,9 @@
 
  - 護照要有 6 個月以上有效期, 請提早一個月前申請
  - 用手機填寫 [Visit Japan Web](https://www.vjw.digital.go.jp/) 的行程資料([教學](https://boo2k.com/archives/39021)), 每人獲得2個 QR 碼, 入境會用到
- - 先在 Klook 或 KKDay 購買好[交通票券](https://kimiyo.tw/kansai-one-day-pass/)
+ - 先在 Klook 或 KKDay 購買好[交通票券](https://kimiyo.tw/kansai-one-day-pass/), 租借[環球影城手環](https://shopee.tw/search?keyword=%E7%92%B0%E7%90%83%E5%BD%B1%E5%9F%8E%20%E6%89%8B%E7%92%B0)
  - 視需要列印地圖: [大阪地鐵](https://kansaionepass.com/tw/pdf/tw_map_osaka.pdf) [京都地鐵](https://kansaionepass.com/tw/pdf/tw_map_kyoto.pdf) [京都巴士](https://www.city.kyoto.lg.jp/kotsu/cmsfiles/contents/0000019/19770/SBnavi202303CNmap.pdf)
- - 下載路線查詢App [iOS](https://apps.apple.com/tw/app/%E4%B9%97%E6%8F%9B%E6%A1%88%E5%86%85/id299490481)/[Android](https://play.google.com/store/apps/details?id=jp.ne.sakura.ccice.norikae&hl=zh_TW)
+ - 下載 路線查詢App([iOS](https://apps.apple.com/tw/app/%E4%B9%97%E6%8F%9B%E6%A1%88%E5%86%85/id299490481)/[Android](https://play.google.com/store/apps/details?id=jp.ne.sakura.ccice.norikae&hl=zh_TW)), 環球影城App([iOS](https://apps.apple.com/us/app/universal-studios-japan/id532097000)/[Android](https://play.google.com/store/apps/details?id=com.universalstudios.japanresort&hl=zh_TW))
  - 行李用[檢查清單](https://github.com/rwlin/TravelPlan/blob/master/Taiwan/CheckList.md)看有沒遺漏的, 帶自己需要的就好. 夏天建議帶 n-1天T恤跟短褲內褲即可, 穿運動鞋或涼鞋
  - 有電池的電器請手提, 液體請托運
 
@@ -24,6 +24,7 @@
 
  - 看一下當初買機票是刷哪一張卡, 有沒有[免費機場停車](https://www.cathaybk.com.tw/cathaybk/personal/product/credit-card/rights/airportparking/#tab2), 條件是什麼, 有哪些停車場可停, 先 google 好或打電話去確認
  - 如果無法免費, 推薦每日$200的[日月亭平安停車場](https://www.youparking.com.tw/pricing-into.php) 03-386-7761 [大園區平安路157號](https://goo.gl/maps/mnCAoD9mnFhXpCyh8), 請提早起飛前3~4小時到
+ - 廉航在第一航廈, 華航長榮在第二航廈
 
 ### 日本 SIM 卡
 
@@ -40,7 +41,7 @@
 |下機|廉航下飛機沒空橋, 要搭接駁車到機場大樓. 路上有廁所都可以先上|
 |檢疫|開手機的 VJB 檢疫頁面給他看, 這步是沒有櫃台, 引導人員看到檢疫頁面的 OK 就過了|
 |排隊與<br>網路<br>|請依照現場人員引導排隊, 更換日本SIM卡或使用關西空港的免費 WIFI: [_FreeWiFi-KansaiAirports](https://www.kansai-airport.or.jp/tw/service/internet/06.html)|
-|入境審查<br>按指紋<br>拍照|- 看能不能走家族通道, 或是告知是家人綁在一支手機即可。(語言不通的話，拿出手機給海關人員看，比人數，他們就會懂了)<br>- 手機開啟 [VJB App](https://www.vjw.digital.go.jp/), 選到自己名字那頁的 QR 碼給海關人員掃瞄<br>- 海關可能問一些問題, 大概都是問目的是什麼(旅遊Travel), 有沒有朋友在日本(一律回答沒有No), 朋友會來接你嗎(不會No), 一個人來的會叫你出示回程機票<br>- 每個人需要按指紋, 請伸出右手食指緊貼在指紋掃瞄器上方. 然後左手食指重覆一次. 結束後眼睛請看著前方攝影機微笑給他拍照|
+|入境審查<br>按指紋<br>拍照|- 看能不能走家族通道, 或是告知是家人綁在一支手機即可。(語言不通的話，拿出手機給海關人員看，比人數，他們就會懂了)<br>- 脫帽脫口罩, 手機開啟 [VJB App](https://www.vjw.digital.go.jp/), 選到自己名字那頁的 QR 碼給海關人員掃瞄<br>- 海關可能問一些問題, 大概都是問目的是什麼(旅遊Travel), 有沒有朋友在日本(一律回答沒有No), 朋友會來接你嗎(不會No), 一個人來的會叫你出示回程機票<br>- 每個人需要按指紋, 請伸出右手食指緊貼在指紋掃瞄器上方. 然後左手食指重覆一次. 結束後眼睛請看著前方攝影機微笑給他拍照|
 |領行李|跟人群走等領行李, 幾件行李要數清楚. 這時可以先去上廁所|
 |海關申報|給行李申告書, 可能有分電子通關(出示VJB畫面掃瞄QR碼)或人工走道(給紙本申告書, 如果他懷疑你, 會叫你打開行李, 把東西都拿出來給他看)|
 |入境大廳|可以去旅客中心拿一些地圖或小手冊. 回台灣時會在出境大廳是4樓|
@@ -52,9 +53,9 @@
 
 ![Rapit](https://i0.wp.com/mimihan.tw/wp-content/uploads/20190901172936_92.jpg?quality=100&ssl=1)
 
- - 南海電鐵 [Rapi:t時刻表](https://www.howto-osaka.com/tc/wp/wp-content/themes/findOsaka/assets/pdf/timetable202302.pdf)(35分¥1450): (空港發)8:35 9:05 9:31 10:05 10:36 11:05 11:35 (難波發)7:00 7:30 8:00 8:27 9:00 9:30 10:05 10:35
+ - 南海電鐵 [Rapi:t時刻表](https://www.howto-osaka.com/tc/wp/wp-content/themes/findOsaka/assets/pdf/timetable202302.pdf)(35分¥1450): (空港發)8:35 9:05 9:31 10:05 10:36 11:05 11:35 (難波發)11:05 12:05 13:05 14:05 15:05 16:00 17:00
 
- - 南海電鐵 [空港急行時刻表](https://www.howto-osaka.com/tc/access-timetable/)(54分¥930電聯車): (空港發)8:41 8:54 9:13 9:43 10:11 10:24 10:39 10:53 (難波發)7:09 7:27 7:38 7:52 8:02 8:17 8:32 8:48
+ - 南海電鐵 [空港急行時刻表](https://www.howto-osaka.com/tc/access-timetable/)(54分¥930電聯車): (空港發)8:41 8:54 9:13 9:43 10:11 10:24 10:39 10:53 (難波發)14:08 14:23 14:38 14:53 15:08 15:23 15:38 15:53 16:05 16:22 
 
 ## 大阪逛街
 
@@ -140,3 +141,8 @@
 ## 去環球影城
  - 交通: JR¥190 要在**今宮(imamiya)**或**新今宮**和**西九条**換車 [JR難波➝(新)今宮➝西九条➝ユニバーサルシティ](https://www.jorudan.co.jp/norikae/cgi/nori.cgi?eki1=%EF%BC%AA%EF%BC%B2%E9%9B%A3%E6%B3%A2&eki2=%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A3&S=%E6%A4%9C%E7%B4%A2)
 
+ - 門票: [KKDay](https://www.kkday.com/zh-tw/product/2247-osaka-universal-studios-harry-potter-world-super-nintendo-world-ticket-japan)/[Klook](https://www.klook.com/zh-TW/activity/46604-universal-studios-japan-e-ticket-osaka-qr-code-direct-entry/)
+
+![](https://i0.wp.com/boo2k.com/wp-content/uploads/2022/07/USJMAP.jpg?resize=680%2C572&ssl=1)
+
+ - 攻略: [here](https://boo2k.com/archives/32719)
