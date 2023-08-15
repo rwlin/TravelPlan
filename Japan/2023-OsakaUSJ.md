@@ -45,17 +45,21 @@
 |領行李|跟人群走等領行李, 幾件行李要數清楚. 這時可以先去上廁所|
 |海關申報|給行李申告書, 可能有分電子通關(出示VJB畫面掃瞄QR碼)或人工走道(給紙本申告書, 如果他懷疑你, 會叫你打開行李, 把東西都拿出來給他看)|
 |入境大廳|可以去旅客中心拿一些地圖或小手冊. 回台灣時會在出境大廳是4樓|
-|搭車到市區|往電車方向(JR/南海電鐵)指示牌上2樓去搭車到大阪市區, 約需35~60分鐘. 去難波(なんば)請搭南海, 去梅田或京都請搭JR. 如果是利木津巴士要走到一樓外面找站牌|
+|搭車到市區|往電車方向([JR/南海電鐵](https://lazyjapan.com/images/kix-t1-08.jpg))指示牌上2樓去搭車到大阪市區, 約需35~60分鐘. 去難波(なんば)請搭南海, 去梅田或京都請搭JR. 如果是利木津巴士要走到一樓外面找站牌|
 
-## 機場到難波(なんば)
+## 關西空港到難波(なんば)
 
- - [南海電鐵Rapi:t特急](https://nicklee.tw/1361/nankai-rapit-discount-ticket/)到難波(なんば)約34分¥1450, 藍色的鐵人28號造型對號座, 搭到終點下車即可, 沒有過站問題. 可[現場購票機買(教學)](https://www.bigfang.tw/blog/post/nankai-rapit), 或事先在[KKDay](https://www.kkday.com/zh-tw/product/19691-nankai-rapi-t-airport-express-e-ticket-kansai-airport-kix-to-osaka-japan?cid=2810)或[Klook](https://www.klook.com/zh-TW/activity/599-kansai-airport-namba-train-ticket-osaka/)購買有折扣,但仍要排隊劃位
+![JR/南海電鐵](https://lazyjapan.com/images/kix-t1-08.jpg)
+
+ - [南海電鐵 Rapi:t特急](https://nicklee.tw/1361/nankai-rapit-discount-ticket/)到難波(なんば)約34分¥1450, [鐵人28號造型](https://pic.pimg.tw/sixpences/49467db5c7f09.jpg)對號座, 搭到終點下車即可, 沒有過站問題. 可[現場購票機買(教學)](https://www.bigfang.tw/blog/post/nankai-rapit), 或事先在[KKDay](https://www.kkday.com/zh-tw/product/19691-nankai-rapi-t-airport-express-e-ticket-kansai-airport-kix-to-osaka-japan?cid=2810)或[Klook](https://www.klook.com/zh-TW/activity/599-kansai-airport-namba-train-ticket-osaka/)購買有折扣,但仍要排隊劃位
 
 ![Rapit](https://i0.wp.com/mimihan.tw/wp-content/uploads/20190901172936_92.jpg?quality=100&ssl=1)
 
- - 南海電鐵 [Rapi:t時刻表](https://www.howto-osaka.com/tc/wp/wp-content/themes/findOsaka/assets/pdf/timetable202302.pdf)(35分¥1450): (空港發)8:35 9:05 9:31 10:05 10:36 11:05 11:35 (難波發)11:05 12:05 13:05 14:05 15:05 16:00 17:00
+ - 推薦[Rapi:t特急時刻表](https://www.howto-osaka.com/tc/wp/wp-content/themes/findOsaka/assets/pdf/timetable202302.pdf)(35分¥1450): (空港發)8:35 9:05 9:31 10:05 10:36 11:05 11:35 (難波發)11:05 12:05 13:05 14:05 15:05 16:00 17:00
 
- - 南海電鐵 [空港急行時刻表](https://www.howto-osaka.com/tc/access-timetable/)(54分¥930電聯車): (空港發)8:41 8:54 9:13 9:43 10:11 10:24 10:39 10:53 (難波發)14:08 14:23 14:38 14:53 15:08 15:23 15:38 15:53 16:05 16:22 
+ - 較便宜的[空港急行時刻表](https://www.howto-osaka.com/tc/access-timetable/)(54分¥930電聯車): (空港發)8:41 8:54 9:13 9:43 10:11 10:24 10:39 10:53 (難波發)14:08 14:23 14:38 14:53 15:08 15:23 15:38 15:53 16:05 16:22 
+ 
+ - 即時車次: [南海電鐵(直達)](https://www.jorudan.co.jp/norikae/cgi/nori.cgi?Sok=%E6%B1%BA+%E5%AE%9A&eki1=%E9%96%A2%E8%A5%BF%E7%A9%BA%E6%B8%AF&eok1=R-&eki2=%E5%8D%97%E6%B5%B7%E9%9B%A3%E6%B3%A2&eok2=R-) | [JR(天王寺或新今宮換車)](https://www.jorudan.co.jp/norikae/cgi/nori.cgi?Sok=%E6%B1%BA+%E5%AE%9A&eki1=%E9%96%A2%E8%A5%BF%E7%A9%BA%E6%B8%AF&eok1=R-&eki2=%EF%BC%AA%EF%BC%B2%E9%9B%A3%E6%B3%A2&eok2=R-)
 
 ## 大阪逛街
 
