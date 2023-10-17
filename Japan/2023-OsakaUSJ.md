@@ -1,6 +1,6 @@
 # 2023 京阪奈的第一次錦囊
 
-[本文網址](https://dynalon.github.io/mdwiki-examples/travel_blog/#https://raw.githubusercontent.com/rwlin/TravelPlan/master/Japan/2023-OsakaUSJ.md)或[原始碼](https://github.com/rwlin/TravelPlan/blob/master/Japan/2023-OsakaUSJ.md)
+[本文網址](https://dynalon.github.io/mdwiki-examples/travel_blog/#https://raw.githubusercontent.com/rwlin/TravelPlan/master/Japan/2023-OsakaUSJ.md)或[原始碼](https://github.com/rwlin/TravelPlan/blob/master/Japan/2023-OsakaUSJ.md) | [關聯文章](https://dynalon.github.io/mdwiki-examples/travel_blog/#https://raw.githubusercontent.com/rwlin/TravelPlan/master/Japan/20231104-OsakaUSJ.md)
 
 ### 事前準備
 
@@ -84,6 +84,8 @@
 |[大阪港區](https://goo.gl/maps/K2G2zwPBk9KyCTZ17)<br>[天保山](https://www.jorudan.co.jp/norikae/cgi/nori.cgi?rf=top&eok1=R-&eok2=R-&eki1=%E3%81%AA%E3%82%93%E3%81%B0&eki2=%E5%A4%A7%E9%98%AA%E6%B8%AF&S=%E6%A4%9C%E7%B4%A2)|[天保山摩天輪](https://mimihan.tw/tempozan-wheel/)<br>[聖瑪麗亞號](https://mimihan.tw/santamaria/)<br>[GLION老爺車博物館](https://blog.xuite.net/chuan0405/twblog/589661203)<br>[海遊館→USJ船長線](http://i7tou.com/ds-20-%E6%97%A5%E6%9C%AC-%E5%A4%A7%E9%98%AA-%E6%99%AF%E9%BB%9E-%E8%88%B9%E9%95%B7%E7%B7%9A%28Captain_Line%29-%E8%87%AA%E7%94%B1%E8%A1%8C%E6%97%85%E9%81%8A.html)<br>[咲洲宇宙塔展望台](https://mimihan.tw/sakishima-observatory/)|[天保山購物中心](https://goo.gl/maps/hDtUCaH6vRkDgmyN6)<br>[浪花美食橫丁](https://goo.gl/maps/58V1Z2fL28fHc3gw9)|[海遊館](https://mimihan.tw/osaka-kaiyukan/)<br>[¥2700](https://www.kaiyukan.com/language/chinese_traditional/ticket.html)<br>[樂高樂園](https://mimihan.tw/osaka-lego-land/)<br>[¥3000](https://www.legolanddiscoverycenter.com/osaka/)<br>[空庭溫泉](https://fullfenblog.tw/solaniwa-onsen/)<br>[¥2790](https://solaniwa.com/zh-tw/price/)|
 |[南海電鐵](https://gojp.tw/nankai-2day-pass/)||[住吉大社](https://gojp.tw/sumiyoshitaisha/)<br>[關空三井Outlet](https://boo2k.com/archives/78772)||
 |有點遠的||[日清杯麵博物館](https://goo.gl/maps/xKd7p8PAT3ZKZc9r6)<br>[萬博公園](https://mimihan.tw/expocity-osaka/)<br>[箕面瀑布](https://livejapan.com/zh-tw/in-kansai/in-pref-osaka/in-osaka-suburbs/article-a2000726/)||
+
+![](https://mimihan.tw/wp-content/uploads/20210308181030_86.jpg)
 
 ## 去奈良
 
