@@ -8,11 +8,11 @@
 
 |Day|地區|行程|住宿|
 |---|----|----|----|
-|6/4|苫小牧|道の駅+AEON吃哈密瓜+唐吉訶德+六花亭+愛努民族博物館|白老溫泉¥20335(一休)<br>丸駒¥21168(trip)<br>雅亭¥21240(jalan)|
-|6/5|登別|尼克斯海洋公園+登別溫泉街+熊牧場|雅亭¥21240(jalan)<br>太陽宮¥26120(jalan)|
-|<span style="color:green">6/6</span>|室蘭|酪農館+刈田神社+地球岬+濱勝母戀店+雕刻公園+溫泉街|太陽宮¥29790(jalan)<br>華美¥29678(agoda)<br>雅亭¥25560(jalan)|
-|<span style="color:red">6/7</span>|洞爺|洞爺湖汽船+筒倉展望台+有珠山口纜車、西山山麓火口散策路線、金比羅火口展望台, 地球岬|千歲¥7016(trip)|
-|6/8|新千歲|新千歲國內線逛街|溫暖的家|
+|6/4|苫小牧|道の駅→壽司郎午餐→AEON吃哈密瓜→唐吉訶德→六花亭→愛努民族博物館|白老溫泉¥20335(一休)<br>丸駒¥21168(trip)<br>雅亭¥21240(jalan)|
+|6/5|登別|尼克斯海洋公園→溫泉街→溫泉市場午餐→熊牧場|雅亭¥21240(jalan)<br>太陽宮¥26120(jalan)|
+|<span style="color:green">6/6</span>|室蘭|酪農館→刈田神社→AEON→地球岬→濱勝母戀店→白鳥大橋展望台→伊達市物產館→溫泉街→煙火|太陽宮¥29790(jalan)<br>華美¥29678(agoda)<br>雅亭¥25560(jalan)|
+|<span style="color:red">6/7</span>|洞爺|雕刻公園→湖底線路→火山科學館→有珠山噴火記念公園→筒倉展望台/霜淇淋→望羊蹄午餐→金比羅火口展望台→熊牧場→Gusto晚餐|千歲¥7016(trip)|
+|6/8|新千歲|新千歲國內線逛街+清粥小菜吃到飽|溫暖的家|
 
 |Day|地區|行程|住宿|
 |---|----|----|----|
@@ -53,7 +53,7 @@
 #### Plan D: 富良野美瑛四日券
 
  - [外國人版](https://nicklee.tw/2879/hokkaido-sapporo-furano-area-pass/)¥11000(含小樽+機場) | [本國人版](https://nicklee.tw/2657/furano-biei-pass/)¥7790(札幌出發)(已停售)
- 
+
 |Day|地區|行程|交通|住宿|
 |---|----|----|----|----|
 |6/4|札幌|大通公園+貍小路商店街|地鐵|旭川|
@@ -76,7 +76,7 @@
 #### 停留點
  - 鮭魚情報館
  - 支笏湖展望台
- 
+
 #### 晚餐
  - [昭和物產豬肉丼](https://gototravel.tw/shouwa-bussan-butadon/)(~19:00), [鶴雅午餐13-14:00](https://www.mizunouta.com/tw/daytrip/)¥3000
 
@@ -85,7 +85,7 @@
 
 #### 停留點
  - 味之大王 | 道の駅ウトナイ湖
- - 市區: 炭焼牛舌赤兵衛 | 壽司郎 | 燒肉King | AEON | くら寿司 | すき家 | 涮乃葉 | 拉麵山岡家 | 唐吉訶德 | 客美多 | 丸龜製麵 | 六花亭 | 業務超市 | 温泉ほのか 
+ - 市區: 炭焼牛舌赤兵衛 | 壽司郎 | 燒肉King | AEON | くら寿司 | すき家 | 涮乃葉 | 拉麵山岡家 | 唐吉訶德 | 客美多 | 丸龜製麵 | 六花亭 | 業務超市 | 温泉ほのか
  - 愛努民族博物館&民族共生公園
 
 ## [登別](https://marktrip.tw/noboribetsu-travel-guide/)
@@ -101,7 +101,7 @@
 |----|-----|-----|-----|-----|-----|------|-----|-----|-----|-----|-----|------|-----|
 |表演|海豚 |海狗 |海豹 |企鵝 |海豚 |沙丁魚|海狗 |海豹 |海豚 |企鵝 |海狗 |沙丁魚|海豚 |
  - 刈田神社
- - Choice迴轉壽司 | ガストGusto | AEON 
+ - Choice迴轉壽司 | ガストGusto | AEON
 
 ![](https://tw.nixe.co.jp/wp-tw-nixe/wp-content/uploads/2024/07/2cfc8a3681c581e148d2b366cc9fabe9-scaled.jpg)
 
@@ -110,22 +110,27 @@
 
 #### 停留點
  - AEON東室蘭 | 濱勝(雞肉烤串)
- - 母恋駅 | 地球岬 | トッカリショ展望台 | 亀岩 | イタンキ海蝕洞 
+ - 母恋駅 | 地球岬 | トッカリショ展望台 | 亀岩 | イタンキ海蝕洞
  - 室蘭水族館 | 白鳥大橋
-
-
 
 ## 洞爺湖
 
 #### 停留點
 
- - 洞爺湖溫泉街、洞爺湖雕刻公園、筒倉展望台、有珠山口纜車、洞爺湖汽船、西山山麓火口散策路線、金比羅火口展望台
- - サイロ展望台: 有伴手禮店
- 
+ - 火山科學館
+ - 洞爺湖雕刻公園
+ - 洞爺湖汽船
+ - 湖底線路
+ - 有珠山噴火記念公園
+ - レストラン望羊蹄
+ - 昭和新山熊牧場
+ - 金比羅火口展望台
+ - サイロ(筒倉)展望台: 有伴手禮店
+
 ## 旭川
 
 #### 停留點
- 
+
  - 天然温泉みなぴりかの湯
  - 旭山動物園
  - 男山酒造
@@ -145,12 +150,12 @@
  - 起司工房
  - 葡萄果汁工場
  - らぁめん支那虎
- 
+
 ## 夕張
 
 #### 停留點
   - レストハウスなつぞら(兩間店): 30分鐘哈密瓜吃到飽
-  
+
 ## 小樽
 
 南小樽→堺町通商店街→小樽音樂盒堂
@@ -179,11 +184,11 @@
  - 羊ケ丘展望台
    - 中央バス: 80月寒本線or東豐線→福住→[福84&平89](https://transfer.navitime.biz/chuo-bus/pc/diagram/BusDiagram?orvCode=00301302&course=0005604057&stopNo=1)
  - 宮之澤站: 白色戀人公園
-   
+
 #### [交通](https://uu-beihaidao.tw/access/sapporo.shtml)
  - 市內巴士一日券: [中央バス](https://www.yourun.net/discount/sapporo/sapporowalk/)¥900 | [範圍](https://www.yourun.net/wp-content/uploads/IMG_20240718_0002-719x1024.jpg) | [JRバス](https://www.jrhokkaidobus.com/ticket/ticket/#target02)¥1000
    - [循環88](https://www.jorudan.co.jp/bus/rosen/timetable/%E6%9C%AD%E5%B9%8C%E9%A7%85%E5%89%8D%EF%BC%BB%E6%9C%AD%E5%B9%8C%E5%B8%82%EF%BC%BD%E3%80%94%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%AD%E5%A4%AE%E3%83%90%E3%82%B9%E3%80%95/%E5%BE%AA%E7%92%B0%EF%BC%98%EF%BC%98%E3%82%B5%E3%83%83%E3%83%9D%E3%83%AD%E3%83%93%E3%83%BC%E3%83%AB%E5%9C%92%E3%83%BB%EF%BC%A6%E7%B7%9A/%E5%8C%97%EF%BC%92%E6%9D%A1%E8%A5%BF%EF%BC%91%E4%B8%81%E7%9B%AE/?Ddd=04&Dym=202606)¥210(30分間隔): 大通公園→時計台前→北２条西３丁目(びっくりドンキー)→札幌駅前→北２条西１丁目(KarlovyVarySpa)→啤酒博物館
-   
+
  - [路面電車](https://nicklee.tw/2771/sapporo-tram/): [路線圖](https://nicklee.tw/attachments/hokkaido/introduce/sapporo_tram/sapporo_tram_map-s.jpg) | [一日券¥570](https://nicklee.tw/attachments/hokkaido/introduce/sapporo_tram/sapporo-tram-1day.webp) | [周六日DOSANKO¥460]() [24hr券¥840](https://nicklee.tw/attachments/hokkaido/introduce/sapporo_tram/sapporo-tram-24hr.webp)
  - [地鐵](https://nicklee.tw/2770/sapporo-subway/): [路線圖](https://nicklee.tw/attachments/hokkaido/introduce/sapporo_metro/sapporo_metro_map-s.webp) | 一日券¥830 | 周六日ドニチカキップ¥520
 
